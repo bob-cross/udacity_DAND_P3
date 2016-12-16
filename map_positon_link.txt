@@ -1,0 +1,10 @@
+Bob Cross
+
+Udacity DAND P3 project submission
+
+A text file containing a link to the map position you wrangled in your project, a short description of the area and a reason for your choice.
+I chose the Austin, Texas area for this project because I am new to this area and thought this project may assist in my exploring this town. I requested a custom download from Mapzen for this project. The link to the file is embedded below.
+
+https://mapzen.com/data/metro-extracts/your-extracts/bfc9bae6e126
+
+
